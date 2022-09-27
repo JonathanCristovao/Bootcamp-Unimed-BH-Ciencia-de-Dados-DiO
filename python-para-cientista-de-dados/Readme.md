@@ -1,1 +1,1 @@
-# Desafios do modulo de Python para cientista de dados
+# Desafios do modulo de Python para cientistas de dados
