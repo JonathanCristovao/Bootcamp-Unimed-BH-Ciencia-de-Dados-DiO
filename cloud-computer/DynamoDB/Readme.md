@@ -5,7 +5,7 @@
   - Amazon CLI para execução em linha de comando
 
 ### Arquitetura
-<img src='img\arquiteture.png'>
+<img src='arquiteture.png'>
 
 
 ### Comandos para execução do experimento:
