@@ -13,4 +13,13 @@
     * A mesma equipe avalia e executa os serviços
     * Os mecânicos possuem código, nome, endereço e especialidade
     * Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
+    
+    
 
+#### Algumas informações sobre o desafio:
+
+    * Mapeamento do esquema ER para Relacional
+    * Definição do script SQL para a criação do esquema de banco de dados 
+    * Persistência de dados para testes
+    * Recuperações com queries SQL
+    
